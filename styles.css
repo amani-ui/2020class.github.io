@@ -1,0 +1,14 @@
+/*This is a Comment*/
+
+body{
+   background-color: lime;
+
+}
+
+p{
+    font-family: Helvetica;
+    font-size: 300px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+}
